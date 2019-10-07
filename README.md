@@ -4,7 +4,7 @@ This is a re-usable framework that allows for expanding tests and passing variou
 
 
 Getting Started(Just run the executable file):
-Double click the provided exe file (API_Sandbox_Application folder and run API_Sandbox.exe application file)
+Double click the provided exe file from the github link below (API_Sandbox_Application folder and run API_Sandbox.exe application file)
 
  
 Getting Started (Open the code via an IDE allowing for editing, updating, debugging and executing):
